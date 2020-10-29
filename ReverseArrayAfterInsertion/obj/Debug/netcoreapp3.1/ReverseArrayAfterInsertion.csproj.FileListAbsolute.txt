@@ -1,0 +1,13 @@
+C:\Users\monisha.khapali\source\repos\ReverseArrayAfterInsertion\ReverseArrayAfterInsertion\bin\Debug\netcoreapp3.1\ReverseArrayAfterInsertion.exe
+C:\Users\monisha.khapali\source\repos\ReverseArrayAfterInsertion\ReverseArrayAfterInsertion\bin\Debug\netcoreapp3.1\ReverseArrayAfterInsertion.deps.json
+C:\Users\monisha.khapali\source\repos\ReverseArrayAfterInsertion\ReverseArrayAfterInsertion\bin\Debug\netcoreapp3.1\ReverseArrayAfterInsertion.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\ReverseArrayAfterInsertion\ReverseArrayAfterInsertion\bin\Debug\netcoreapp3.1\ReverseArrayAfterInsertion.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\ReverseArrayAfterInsertion\ReverseArrayAfterInsertion\bin\Debug\netcoreapp3.1\ReverseArrayAfterInsertion.dll
+C:\Users\monisha.khapali\source\repos\ReverseArrayAfterInsertion\ReverseArrayAfterInsertion\bin\Debug\netcoreapp3.1\ReverseArrayAfterInsertion.pdb
+C:\Users\monisha.khapali\source\repos\ReverseArrayAfterInsertion\ReverseArrayAfterInsertion\obj\Debug\netcoreapp3.1\ReverseArrayAfterInsertion.csprojAssemblyReference.cache
+C:\Users\monisha.khapali\source\repos\ReverseArrayAfterInsertion\ReverseArrayAfterInsertion\obj\Debug\netcoreapp3.1\ReverseArrayAfterInsertion.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\ReverseArrayAfterInsertion\ReverseArrayAfterInsertion\obj\Debug\netcoreapp3.1\ReverseArrayAfterInsertion.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\ReverseArrayAfterInsertion\ReverseArrayAfterInsertion\obj\Debug\netcoreapp3.1\ReverseArrayAfterInsertion.csproj.CoreCompileInputs.cache
+C:\Users\monisha.khapali\source\repos\ReverseArrayAfterInsertion\ReverseArrayAfterInsertion\obj\Debug\netcoreapp3.1\ReverseArrayAfterInsertion.dll
+C:\Users\monisha.khapali\source\repos\ReverseArrayAfterInsertion\ReverseArrayAfterInsertion\obj\Debug\netcoreapp3.1\ReverseArrayAfterInsertion.pdb
+C:\Users\monisha.khapali\source\repos\ReverseArrayAfterInsertion\ReverseArrayAfterInsertion\obj\Debug\netcoreapp3.1\ReverseArrayAfterInsertion.genruntimeconfig.cache
